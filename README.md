@@ -1,22 +1,88 @@
-🌟 Hari Hara Budra 🌟
+┌──(budrahh@github)-[~/dev]
+└─$ neofetch
 
-Hey there, world! 👋 I'm Hari Hara Budra, an ambitious explorer navigating the realms of Artificial Intelligence, Data Science, and the captivating universe of design and development. Step into my GitHub galaxy and let's embark on an exhilarating journey together! 🚀
+budrahh@github
 
-About Me ℹ
+OS: Full-Stack Developer
+Host: Remote | Linux-first
+Kernel: Code by night, optimize by day
+Uptime: Building scalable systems
+Shell: React + FastAPI + Docker
+DE: Terminal Enthusiast
+WM: VSCode | PyCharm | WebStorm
+Theme: Gruvbox Dark
+Icons: 🚀 🐳 🤖 ⚡
+Terminal: Ubuntu 24.04
+CPU: Problem Solving (8-core)
+Memory: Continuous Learning
 
-Currently charting my course through Rathinam Technical Campus, I'm on a quest to conquer a Bachelor's degree in Artificial Intelligence and Data Science, adorned with intriguing minors in Fintech and Blockchain. Alongside my academic odyssey, I've delved deep into the realms of Python sorcery, Machine Learning magic, and the enchanting art of game development. 🎓
+┌──(budrahh@github)-[~/dev]
+└─$ ls -lah projects/
 
-Achievements 🏆
+total 156K
+drwxr-xr-x 4 budrahh dev 4.0K Oct 15 14:23 .
+drwxr-xr-x 12 budrahh dev 4.0K Nov 28 09:12 ..
+drwxr-xr-x 8 budrahh dev 8.0K Dec 9 23:43 ApplyForge/ # AI-Powered Job Application Platform
+drwxr-xr-x 5 budrahh dev 4.0K Aug 22 16:45 AutoIntell_Backend/ # Predictive Vehicle Health Monitoring
+drwxr-xr-x 6 budrahh dev 4.0K Mar 5 11:30 TestCo/ # Comprehensive Test Management Platform
+drwxr-xr-x 7 budrahh dev 4.0K Jul 18 20:15 DSA/ # DSA | Competitive Programming | LeetCode
 
-Behold, the tales of triumph! 🎉 As a Grand Finalist at PSG iTech Hack Fest 2023, my project "Counselin" shone brightly, illuminating the path to victory. And in the illustrious annals of Skill-a-thon 1.0, I not only clinched victory in the idea phase but also unleashed my creativity in the prototype realm. The adventure never ceases!
+┌──(budrahh@github)-[~/dev]
+└─$ cat skills.json | jq '.' | bat --language json
 
-Technical Skills 💻
+{
+"techStack": {
+"frontend": {
+"frameworks": ["React", "Tailwind CSS"],
+"languages": ["JavaScript ES6+", "HTML5/CSS3"],
+"tools": ["Vite", "Webpack", "Redux"]
+},
+"backend": {
+"frameworks": ["FastAPI", "Express.js", "Flask"],
+"languages": ["Python 3.11+", "Node.js", "SQL"],
+"databases": ["PostgreSQL", "Redis", "MongoDB"]
+},
+"devOps": {
+"containerization": ["Docker", "Docker Compose"],
+"ci_cd": ["GitHub Actions"],
+"platforms": ["Vercel", "Railway"],
+"os": ["Ubuntu 24.04", "Linux"]
+}
+},
+"achievements": [
+"🏆 Volkswagen iMobilithon 2024 - Top 15 Finalist",
+"🥈 PSG iTech Hackathon - Runner-up",
+"🚀 50+ Production Deployments"
+]
+}
 
-Enter the realm of my prowess! 🧙‍♂️ Behold, the arsenal of my skills:
+┌──(budrahh@github)-[~/dev]
+└─$ docker compose ps
+CONTAINER ID IMAGE STATUS PORTS
+abc123def fastapi-backend Up 3h (healthy) 0.0.0.0:8000->8000/tcp
+ghi456jkl postgres-db Up 3h (healthy) 5432/tcp
+mno789pqr redis-cache Up 3h 6379/tcp
+stu012vwx react-frontend Up 3h 0.0.0.0:3000->3000/tcp
 
-Proficient in the mystic arts of Python, where spells are cast with the flick of a code 🐍
-A seasoned warrior in the battlegrounds of C++, crafting elegant solutions to complex problems
-A maestro of PgSQL, unraveling the mysteries of data analysis and visualization 📊
-Delving deep into the arcane secrets of Deep Learning, where neural networks weave tales of insight and discovery 🧠
-A virtuoso of web development, sculpting digital masterpieces with HTML, CSS, and JavaScript 🌐
-And armed with the tools of creation - Adobe Photoshop, Illustrator, XD, and Figma - I breathe life into visions and dreams 🎨
+┌──(budrahh@github)-[~/dev]
+└─$ ./connect.sh
+
+╔════════════════════════════════════════════════════════════╗
+║ 📬 CONNECT WITH ME ║
+╠════════════════════════════════════════════════════════════╣
+║ 📧 Email → hariharabudra@gmail.com ║
+║ 🔗 LinkedIn → linkedin.com/in/hari-hara-budra ║
+║ 🌐 Portfolio → budarportfolio.vercel.app ║
+║ 💼 GitHub → github.com/BudraHH ║
+║ 📍 Location → Chennai, Tamil Nadu, India ║
+║ 🌍 Open to → Remote | Hybrid | Relocation ║
+╚════════════════════════════════════════════════════════════╝
+
+┌──(budrahh@github)-[~/dev]
+└─$ echo "💡 Always learning. Always building. Always shipping. 🚀"
+
+💡 Always learning. Always building. Always shipping. 🚀
+
+┌──(budrahh@github)-[~/dev]
+└─$ █
+
